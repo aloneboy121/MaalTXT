@@ -7,44 +7,34 @@
   "success_url": "https://devgagan.in",
   "env": {
     "API_ID": {
-      "description": "Get this value from https://my.telegram.org",
-      "value": "",
+      "description": "23480585",
+      "value": "23480585",
       "required": true
     },
     "API_HASH": {
-      "description": "Get this value from https://my.telegram.org",
-      "value": "",
+      "description": "23af64c0a4ba8c1f0c04e9be07d0ba68",
+      "value": "23af64c0a4ba8c1f0c04e9be07d0ba68",
       "required": true
     },
     "BOT_TOKEN": {
-      "description": "A Bot's token from Botfather",
-      "value": "",
+      "description": "6350459916:AAE12tdDBH372pGIr7GzcbEG97xQGuq3PH0",
+      "value": "6350459916:AAE12tdDBH372pGIr7GzcbEG97xQGuq3PH0",
       "required": true
     },
-    "MONGO_DB": {
-      "description": "Get a mongodb url from https://cloud.mongodb.com.",
-      "value": "mongodb+srv://ggn:ggn@ggn.upuljx5.mongodb.net/?retryWrites=true&w=majority&appName=ggn",
+    "AUTH_USERS": {
+      "description": "7306229091",
+      "value": "7306229091",
       "required": true
     },
-    "OWNER_ID": {
-      "description": "The user id of user whom you would like to add as OWNER.",
-      "value": "",
+    "LOG_CH": {
+      "description": "-1002190206859",
+      "value": "-1002190206859",
       "required": true
     },
-    "SUDO_USERS": {
-      "description": "Here fill other Admins id",
-      "value": "",
+    "GROUPS": {
+      "description": "-1002247529229",
+      "value": "-1002247529229",
       "required": false
-    },
-    "CHANNEL_ID": {
-      "description": "Enter Channel ID (-100) and make bot admin there",
-      "value": "",
-      "required": true
-    },
-    "LOG_GROUP": {
-      "description": "Enter Log Channel/Group ID (-100) and make bot admin there",
-      "value": "",
-      "required": true
     }
   },
   "buildpacks": [
